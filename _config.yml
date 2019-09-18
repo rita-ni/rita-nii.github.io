@@ -14,8 +14,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: Rita Ni
+  tagline: UBC MDS Student
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
